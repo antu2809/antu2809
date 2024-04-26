@@ -1,5 +1,5 @@
 # 👋 Hi
-## 📫 You can reach me through my LinkedIn profile or my Portfolio.
+## 📫 You can reach on
 ###  **Porfolio:** [FranciscoAntuAlmonacid](https://franciscoantualmonacid.pythonanywhere.com/)
 ###  **LinkedIn:** [Francisco Almonacid Cammarata](https://www.linkedin.com/in/francisco-almonacid-cammarata543119267/)
 
