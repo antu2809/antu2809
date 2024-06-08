@@ -8,7 +8,7 @@
 
 
 ### Frameworks:
-##### ![image](https://github.com/antudev/antudev/assets/146896279/02a642ee-d128-4190-a9e2-feb92b6e1da4) ![image](https://github.com/antudev/antudev/assets/146896279/39b985b3-980d-4ccc-ab05-1ec388d1a4ae)
+##### ![image](https://github.com/antu2809/antu2809/assets/102919566/1d8155ee-edb0-4989-b424-65d64956cf5e)  ![image](https://github.com/antudev/antudev/assets/146896279/02a642ee-d128-4190-a9e2-feb92b6e1da4)  ![image](https://github.com/antudev/antudev/assets/146896279/39b985b3-980d-4ccc-ab05-1ec388d1a4ae)
 
 ### Data bases:
 ##### ![image](https://github.com/antudev/antudev/assets/146896279/f6b71f25-d740-47fd-a549-ad7d0fee3db9) ![image](https://github.com/antudev/antudev/assets/146896279/5d392a82-28af-45f6-a322-8f151a32d20c)
